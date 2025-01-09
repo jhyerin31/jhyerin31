@@ -1,5 +1,5 @@
 ## Data Scientist
-![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35&desc=jhyerin31's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 
 <h1 align="center">Hi 👋, I'm jhyerin31</h1>
@@ -10,12 +10,11 @@
 </p>
 
 <h3 align="left">Hits</h3>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhithttps%3A%2F%2Fgithub.com%2Fjhyerin31%2Fjhyerin31-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <p align="left">
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Most used Languages</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
