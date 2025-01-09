@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?section=footer)type=wave&color=gradient&height=300&section=header&text=안녕하세요👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35)
 
 
 <h1 align="center">Hi 👋, I'm jhyerin31</h1>
