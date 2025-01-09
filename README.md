@@ -1,6 +1,6 @@
 ## Hi there 👋
-![](https://capsule-render.vercel.app/api?section=footer)
-?text = 안녕하세요%20데이터%20사이언티스트%20정혜린입니다%20🙋‍♀️
+![](https://capsule-render.vercel.app/api?section=footer)?text = 안녕하세요%20데이터%20사이언티스트%20정혜린입니다%20🙋‍♀️
+
 
 <h1 align="center">Hi 👋, I'm jhyerin31</h1>
 <h3 align="center">A passionate Data analyst</h3>
