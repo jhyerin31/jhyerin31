@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm jhyerin31</h1>
 <h3 align="center">A passionate Data analyst</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : jhyerin31@gmail.com</h3>
 <p align="left">
 </p>
 
