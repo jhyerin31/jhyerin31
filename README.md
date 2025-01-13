@@ -2,17 +2,32 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35&desc=jhyerin31's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 
-<h1 align="center">Hi 👋, I'm jhyerin31</h1>
-<h3 align="center">A passionate Data analyst</h3>
+<h1 align="center"> I'm jhyerin31</h1>
 
-<h3 align="left">Connect with me : jhyerin31@gmail.com</h3>
-<p align="left">
-</p>
+## 📧 Contact Information
+- **Email**: jhyerin31@gmail.com
 
-<h3 align="left">Hits</h3>
-<p align="left">
-</p>
+## 🎓 Education
+### Master's Degree in Statistics
+- **University**: Duskung Womens' University
+- **Study Preiod**: 201403 - 201802
 
+### Bachelor's Degree in Mathematics and Statistics
+- **University**: ChungAng University
+- **Study Preiod**: 201803 - 202002
+
+## 💼 Work Experience
+### IMediSync Inc. | Senior Researcher 
+*2020/06/30 – 2024/09/30*  
+- [Describe your role and major accomplishments at the company.]
+
+
+## 📊 Data Fields of Interest
+- **Data Science**: Analyzing large datasets to uncover insights and trends.
+- **Machine Learning**: Building and deploying predictive models.
+- **Data Visualization**: Creating visualizations to make data understandable.
+- **Business Intelligence**: Using data to support decision-making processes.
+- **HealthCare**: Analyzing biological data such as genomes and proteins.
 
 <h3 align="left">Most used Languages</h3>
 <p align="left"> </p>
