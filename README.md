@@ -29,9 +29,7 @@
 - **Business Intelligence**: Using data to support decision-making processes.
 - **HealthCare**: Analyzing biological data such as genomes and proteins.
 
-<h3 align="left">Most used Languages</h3>
-<p align="left"> </p>
-
+## 💻 Technicial Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 <!--
