@@ -36,6 +36,7 @@
 ## 📊 Data Fields of Interest
 - **Data Science**: Analyzing large datasets to uncover insights and trends.
 - **Machine Learning**: Building and deploying predictive models.
+- **eXplainable AI**
 - **Data Visualization**: Creating visualizations to make data understandable.
 - **Business Intelligence**: Using data to support decision-making processes.
 - **HealthCare**: Analyzing biological data such as genomes and proteins.
