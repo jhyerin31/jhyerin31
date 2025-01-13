@@ -1,4 +1,4 @@
-## Data Scientist
+## Data Scientist / Analyst
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35&desc=jhyerin31's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 
@@ -9,7 +9,7 @@
 
 ## 🎓 Education
 ### Master's Degree in Statistics
-- **University**: Duskung Womens' University
+- **University**: Duksung Womens' University
 - **Study Preiod**: 201403 - 201802
 
 ### Bachelor's Degree in Mathematics and Statistics
