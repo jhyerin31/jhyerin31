@@ -9,12 +9,12 @@
 
 ## 🎓 Education
 ### Master's Degree in Statistics
-- **University**: Duksung Womens' University
-- **Study Preiod**: *201403 - 201802*
-
-### Bachelor's Degree in Mathematics and Statistics
 - **University**: ChungAng University
 - **Study Preiod**: *201803 - 202002*
+
+### Bachelor's Degree in Mathematics and Statistics
+- **University**: Duksung Womens' University
+- **Study Preiod**: *201403 - 201802*
 
 ## 💼 Work Experience
 ### IMediSync Inc. | Senior Researcher 
