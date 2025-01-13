@@ -11,7 +11,7 @@
 ### Master's Degree in Statistics
 - **University**: ChungAng University
 - **Study Preiod**: *201803 - 202002*
-- **Master's Thesis** : "Visualization of Explainable Artificial Intelligence Techniques Using Variable Importance"
+- **Master's Thesis** : "Visualization of Explainable Artificial Intelligence Techniques Using Variable Importance(2020)"
  
 ### Bachelor's Degree in Mathematics and Statistics
 - **University**: Duksung Womens' University
