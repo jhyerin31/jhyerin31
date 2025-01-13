@@ -19,14 +19,20 @@
 ## 💼 Work Experience
 ### IMediSync Inc. | Senior Researcher 
 *2020/06/30 – 2024/09/30*  
-- [Describe your role and major accomplishments at the company.]
-
+- 뇌파 측정 신호 데이터로부터 정형/비정형 데이터셋으로의 구축 경험
+- python, tensorflow, keras, pytorch
+- ML/DL 적용 및 모델 개선을 통한 POC가 아닌 서비스로의 경험
+- 통계분석 및 데이터 전처리 경험
+- 국내특허 2건
+- OHBM2021, AAIC 2023 학술대회 포스터 2건
+  
 ### FastCampus | Upstage AI Lab 7기 부트캠프 수강중 
 *2024/11/14 –*  
-- 1. ML regression : House Price Prediction
+- ML regression : House Price Prediction
      - kakao RestAPI
      - TimeSeries 
-
+- MLOps
+  
 ## 📊 Data Fields of Interest
 - **Data Science**: Analyzing large datasets to uncover insights and trends.
 - **Machine Learning**: Building and deploying predictive models.
