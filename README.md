@@ -21,6 +21,11 @@
 *2020/06/30 – 2024/09/30*  
 - [Describe your role and major accomplishments at the company.]
 
+### FastCampus | Upstage AI Lab 7기 부트캠프 수강중 
+*2024/11/14 –*  
+- 1. ML regression : House Price Prediction
+     - kakao RestAPI
+     - TimeSeries 
 
 ## 📊 Data Fields of Interest
 - **Data Science**: Analyzing large datasets to uncover insights and trends.
