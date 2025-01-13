@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35&desc=jhyerin31's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 
-<h1 align="center"> I'm jhyerin31</h1>
+<h1 align="center"> I'm Hyerin Jeong </h1>
 
 ## 📧 Contact Information
 - **Email**: jhyerin31@gmail.com
