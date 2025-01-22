@@ -33,6 +33,9 @@
      - kakao RestAPI
      - TimeSeries 
 - MLOps
+     - IMDB 데이터를 활용한 영화 평점 예측 서비스 개발 프로젝트
+     -  Code Refactoring
+     -  Airflow
   
 ## 📊 Data Fields of Interest
 - **Data Science**: Analyzing large datasets to uncover insights and trends.
