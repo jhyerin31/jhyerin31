@@ -40,10 +40,11 @@
 ## 📊 Data Fields of Interest
 - **Data Science**: Analyzing large datasets to uncover insights and trends.
 - **Machine Learning**: Building and deploying predictive models.
-- **eXplainable AI**
+- **Deep Learning**: Image Classification, TabNet
+- **eXplainable AI**: LIME, Grad-CAM
 - **Data Visualization**: Creating visualizations to make data understandable.
 - **Business Intelligence**: Using data to support decision-making processes.
-- **HealthCare**: Analyzing biological data such as genomes and proteins.
+- **HealthCare**: Analyzing biological data such as cancer images and bio-signal.
 
 ## 💻 Technicial Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
