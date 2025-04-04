@@ -36,6 +36,11 @@
      - IMDB 데이터를 활용한 영화 평점 예측 서비스 개발 프로젝트
      -  Code Refactoring
      -  Airflow
+ - NLP
+     - 한국어 대화 데이터셋을 활용한 요약 경진대회
+     - paust/pko-t5-base
+ - Langchain을 활용한 LLM 어플리케이션 개발 프로젝트
+     - 부트캠프 과정 중 필요에 따른 행정 관련 문서 알림 QA Engine 서비스 개발
   
 ## 📊 Data Fields of Interest
 - **Data Science**: Analyzing large datasets to uncover insights and trends.
